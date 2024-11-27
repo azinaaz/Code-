@@ -9,10 +9,6 @@ for x in content:
             cal_num.append(x[i])
     cal.append(int(cal_num[0] + cal_num[-1]))
 print(sum(cal))
-    
-
-    
-file.close()
 
 
 
